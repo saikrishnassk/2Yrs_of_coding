@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int a[20][20],n,i,j,k,r,c,s=0;
+	int a[40][40],n,i,j,k,r,c,s=0;
 	
 	while(s!=1)
 	{cout<<"enter N"<<endl;
